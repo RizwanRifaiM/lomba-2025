@@ -23,7 +23,7 @@ import json
 app = Flask(__name__)
 
 camera_url = "http://192.168.137.122/capture"
-camera_url_sensor = "http://192.168.137.223/capture"
+camera_url_sensor = camera_url
 current_mode = "deteksi wajah"
 hasil_terakhir = "Belum ada hasil."
 upload_data_mode = "semua"
