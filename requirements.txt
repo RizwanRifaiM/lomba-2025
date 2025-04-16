@@ -1,6 +1,4 @@
 Flask==2.3.2
-opencv-python==4.8.0.74
-Pillow==9.5.0
 requests==2.31.0
 pymongo==4.4.1
 pandas==2.0.3
