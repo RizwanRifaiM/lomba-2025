@@ -1,4 +1,4 @@
-npm install
+npm install dan
 npm install three
 
 untuk Running menggunakan "npm run dev"
