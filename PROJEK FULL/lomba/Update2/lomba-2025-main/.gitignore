@@ -7,7 +7,6 @@
 !.yarn/releases
 !.yarn/versions
 /coverage
-
 /.next/
 /out/
 /build
